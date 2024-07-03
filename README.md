@@ -1,2 +1,6 @@
-"# Deep-Learning-Traffic-Light-Recognition" 
-I implemented a deep learning structure to detect traffic light colors. In the regularization_test file, I experimented with various regularization methods to optimize the accuracy of the validation set. In the traffic_light_recognition file, I created TensorFlow checkpoints to save the best weights after training and built a CNN model. Additionally, I employed pre-trained models, including ResNet, MobileNet, and VGG, as well as RNN models such as Simple RNN, GRU, and LSTM, to evaluate whether these structures could enhance model performance.
+## Traffic Light Detection Using Deep Learning
+#### This project implements a deep learning framework for detecting traffic light colors. Key components and methodologies include:
+
+##### Regularization Techniques: Explored various regularization methods in the regularization_test file to optimize validation set accuracy.
+##### CNN and Checkpoints: Developed a Convolutional Neural Network (CNN) model in the traffic_light_recognition file. Implemented TensorFlow checkpoints to save optimal weights post-training.
+##### Utilizing Pre-trained and RNN Models: Integrated several pre-trained models (ResNet, MobileNet, VGG) and recurrent neural networks (Simple RNN, GRU, LSTM) to assess improvements in model performance.
